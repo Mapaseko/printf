@@ -2,6 +2,7 @@
 
 /**
  * is_printable - Evaluates if a char is printable
+ * By Iva and Mapseko winning team
  * @c: Char to be evaluated.
  *
  * Return: 1 if c is printable, 0 otherwise
