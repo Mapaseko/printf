@@ -4,7 +4,7 @@ void print_buffer(char buffer[], int *buff_ind);
 
 /**
  * _printf - Printf function
- * By Iva and Mapaseko
+ * By Iva and Mapaseko winning team
  * @format: format.
  * Return: Printed chars.
  */
